@@ -59,7 +59,7 @@ def decompose_image (X_train):
     
     
     
-    
+####
     
     
     
